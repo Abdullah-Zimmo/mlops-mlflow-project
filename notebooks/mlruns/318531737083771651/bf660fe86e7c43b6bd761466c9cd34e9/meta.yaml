@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zimmo/Desktop/mlops-mlflow-project/notebooks/mlruns/318531737083771651/bf660fe86e7c43b6bd761466c9cd34e9/artifacts
+end_time: 1745655366256
+entry_point_name: ''
+experiment_id: '318531737083771651'
+lifecycle_stage: active
+run_id: bf660fe86e7c43b6bd761466c9cd34e9
+run_name: calm-robin-939
+run_uuid: bf660fe86e7c43b6bd761466c9cd34e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745655363605
+status: 3
+tags: []
+user_id: zimmo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zimmo/Desktop/mlops-mlflow-project/mlruns/388414333511973248/77af4d416c5e4c7dbaf1132d8b17310d/artifacts
+end_time: 1745656496821
+entry_point_name: ''
+experiment_id: '388414333511973248'
+lifecycle_stage: active
+run_id: 77af4d416c5e4c7dbaf1132d8b17310d
+run_name: adventurous-bass-371
+run_uuid: 77af4d416c5e4c7dbaf1132d8b17310d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745656493900
+status: 3
+tags: []
+user_id: zimmo

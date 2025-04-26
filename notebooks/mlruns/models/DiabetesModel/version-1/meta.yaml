@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745655366178
+current_stage: None
+description: null
+last_updated_timestamp: 1745655366178
+name: DiabetesModel
+run_id: bf660fe86e7c43b6bd761466c9cd34e9
+run_link: null
+source: file:///Users/zimmo/Desktop/mlops-mlflow-project/notebooks/mlruns/318531737083771651/bf660fe86e7c43b6bd761466c9cd34e9/artifacts/diabetes_model
+status: READY
+status_message: null
+storage_location: file:///Users/zimmo/Desktop/mlops-mlflow-project/notebooks/mlruns/318531737083771651/bf660fe86e7c43b6bd761466c9cd34e9/artifacts/diabetes_model
+user_id: null
+version: 1

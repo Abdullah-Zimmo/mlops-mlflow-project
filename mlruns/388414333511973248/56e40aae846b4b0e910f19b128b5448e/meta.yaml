@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zimmo/Desktop/mlops-mlflow-project/mlruns/388414333511973248/56e40aae846b4b0e910f19b128b5448e/artifacts
+end_time: 1745570173320
+entry_point_name: ''
+experiment_id: '388414333511973248'
+lifecycle_stage: active
+run_id: 56e40aae846b4b0e910f19b128b5448e
+run_name: useful-robin-267
+run_uuid: 56e40aae846b4b0e910f19b128b5448e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745570171269
+status: 3
+tags: []
+user_id: zimmo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zimmo/Desktop/mlops-mlflow-project/mlruns/388414333511973248/b8449ea8a3bb4e30844e1dc476a499ed/artifacts
+end_time: 1745569401064
+entry_point_name: ''
+experiment_id: '388414333511973248'
+lifecycle_stage: active
+run_id: b8449ea8a3bb4e30844e1dc476a499ed
+run_name: defiant-kit-538
+run_uuid: b8449ea8a3bb4e30844e1dc476a499ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745569397396
+status: 3
+tags: []
+user_id: zimmo
