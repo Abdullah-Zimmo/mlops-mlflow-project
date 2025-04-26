@@ -40,7 +40,7 @@ jupyter notebook notebooks/experiment_tracking.ipynb
 mlflow ui
 ```
 
-Then open your browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+Then open your browser and go to: http://127.0.0.1:5500
 
 ## MLflow Logging
 
